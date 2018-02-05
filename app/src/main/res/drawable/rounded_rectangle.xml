@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- fill/color -->
+    <solid android:color="@color/colorPrimary" />
+
+    <!-- Control the width and height of the shape -->
+    <size
+        android:width="0dp"
+        android:height="0dp" />
+
+    <!-- Control the radius of each corners -->
+    <corners
+        android:bottomLeftRadius="@dimen/bg_rectangle_corner_radius"
+        android:bottomRightRadius="@dimen/bg_rectangle_corner_radius"
+        android:topLeftRadius="@dimen/bg_rectangle_corner_radius"
+        android:topRightRadius="@dimen/bg_rectangle_corner_radius" />
+</shape>

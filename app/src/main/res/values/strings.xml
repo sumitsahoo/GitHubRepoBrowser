@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitHub Repo Browser</string>
+    <string name="action_search">Enter GitHub Username</string>
+    <string name="action_about">About App</string>
+    <string name="title_activity_repo_search">GitHub Repo Browser</string>
+    <string name="action_clear_db">Clear DB</string>
+    <string name="text_search">Tap search icon and enter GitHub username in search box to view repository list.</string>
+    <string name="error">Error</string>
+    <string name="msg_other_error">Unable to fetch repository details at the moment. Please try again later.</string>
+    <string name="success">Success</string>
+    <string name="msg_db_cleared">App cache removed.</string>
+    <string name="msg_app_info">Version : 1.0\nThis App demonstrates usage of RxJava 2, Retrofit and ObjectBox. Designed and Developed by Sumit.</string>
+    <string name="action_view_source">View Source Code</string>
+    <string name="msg_network_error">Please check network connectivity and try again.</string>
+    <string name="exception_unknown_host">java.net.UnknownHostException</string>
+    <string name="updated_on">Updated On :</string>
+</resources>
