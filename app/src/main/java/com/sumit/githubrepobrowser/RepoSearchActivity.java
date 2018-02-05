@@ -196,7 +196,7 @@ public class RepoSearchActivity extends AppCompatActivity {
                         .show();
             }
         }else if(id == R.id.action_view_source){
-            Util.launchChromeCustomTab(context, "https://github.com/sumitsahoo");
+            Util.launchChromeCustomTab(context, "https://github.com/sumitsahoo/GitHubRepoBrowser");
         }
 
         return super.onOptionsItemSelected(item);
