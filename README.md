@@ -12,6 +12,8 @@ RxJava Fundamentals : https://blog.mindorks.com/rxjava-anatomy-what-is-rxjava-ho
 <br />ObjectBox vs Realm vs Room : https://notes.devlabs.bg/realm-objectbox-or-room-which-one-is-for-you-3a552234fd6e
 <br />Retrofit : http://square.github.io/retrofit/
 
+Next steps (coming soon) : Making the API request lifecycle aware using Repository pattern. More details here : https://www.bignerdranch.com/blog/the-rxjava-repository-pattern/ 
+
 <br />Happy Coding :)
 <br />Fork -> Improve -> Share -> Repeat
 
