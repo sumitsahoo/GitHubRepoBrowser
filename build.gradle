@@ -2,7 +2,7 @@
 
 buildscript {
 
-    ext.objectboxVersion = '1.4.1'
+    ext.objectboxVersion = '1.4.3'
 
     repositories {
         google()
